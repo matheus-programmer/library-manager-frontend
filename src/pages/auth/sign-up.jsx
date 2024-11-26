@@ -106,7 +106,7 @@ export function SignUp() {
 
             <button
               type="submit"
-              className="btn btn-primary ms-auto"
+              className="btn btn-secondary ms-auto"
               disabled={isPending}
             >
               {isPending ? (

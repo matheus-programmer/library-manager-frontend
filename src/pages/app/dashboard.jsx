@@ -100,7 +100,7 @@ export function Dashboard() {
           <form onSubmit={onSubmit} className="d-flex justify-content-end mb-4">
             <div className="form-outline flex-fill">
               <label className="form-label" htmlFor="taskName">
-                O que você precisa fazer hoje?
+                Faça sua lista de leitura!
               </label>
 
               <input

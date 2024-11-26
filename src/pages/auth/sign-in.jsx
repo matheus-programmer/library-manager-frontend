@@ -82,7 +82,7 @@ export function SignIn() {
               />
             </div>
 
-            <button type="submit" className="btn btn-primary ms-auto">
+            <button type="submit" className="btn btn-secondary ms-auto">
               Entrar
             </button>
           </form>
