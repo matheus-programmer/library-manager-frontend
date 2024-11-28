@@ -1,7 +1,3 @@
-Aqui está uma versão aprimorada do seu README, com algumas melhorias de formatação, clareza e organização:
-
----
-
 # 📝 **Minhas Tarefas**
 
 <p align="center">
@@ -69,12 +65,12 @@ npm install
 
 ### 3. Configure o Backend
 
-Este projeto depende de um **backend** para funcionar corretamente. Para isso, primeiro configure a API, seguindo as instruções do repositório do backend: [Passo a Passo do Backend](url back).
+Este projeto depende de um **backend** para funcionar corretamente. Para isso, primeiro configure a API, seguindo as instruções do repositório do backend: [Passo a Passo do Backend](https://github.com/matheus-programmer/api-library-manager).
 
 Após configurar o backend, crie um arquivo `.env.local` na raiz do projeto e adicione a URL do backend local:
 
 ```
-VITE_API_URL="Defina a url do backend local aqui"
+VITE_API_URL="Defina a url do back-end local aqui"
 ```
 
 ### 4. Inicie a aplicação
@@ -86,7 +82,3 @@ npm run dev
 ```
 
 Se tudo estiver configurado corretamente, a aplicação será iniciada e estará disponível em [http://localhost:3000](http://localhost:3000).
-
----
-
-Agora, o README está mais estruturado e fácil de seguir, com uma introdução mais clara e tópicos bem definidos. Se precisar de mais alguma ajuda, fico à disposição!
