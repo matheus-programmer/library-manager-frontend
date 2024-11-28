@@ -1,4 +1,3 @@
-# 📝 **Minhas Tarefas**
 
 <p align="center">
   <img src="./assets/readme/back-end.jpg" alt="Dashboard" />
