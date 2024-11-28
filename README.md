@@ -13,7 +13,7 @@ Este é um projeto de **lista de tarefas** (To-Do List) que se comunica com uma 
 - Adição, remoção e marcação de tarefas como concluídas
 - Exibição de tarefas em uma **dashboard** personalizada
 
-> **Backend Minhas Listas**: O backend utilizado foi desenvolvido separadamente. Para conferir como configurá-lo, [clique aqui](minha-url).
+> **Backend Minhas Listas**: O backend utilizado foi desenvolvido separadamente. Para conferir como configurá-lo, [clique aqui](https://github.com/matheus-programmer/api-library-manager).
 
 ## Funcionalidades
 
